@@ -1,7 +1,7 @@
 # Intern-Connect-Academy-DecBatch
 #Intern-Connect-Academy Repo
 
-# Todo List App
+# 1. Todo List App
 
 ## Overview
 This project is a simple and efficient Todo List application built with React, created using Create React App (CRA) and bundled with Next.js. It allows users to manage tasks efficiently, providing features for adding, editing, and marking tasks as complete.
@@ -39,7 +39,7 @@ For questions or feedback, contact Aafaq Sayed at aafaqsayed09@gmail.com.
 Happy task managing!
 
 
-# Simple Calculator
+# 2. Simple Calculator
 
 ## Overview
 This project is a straightforward calculator built using vanilla JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
