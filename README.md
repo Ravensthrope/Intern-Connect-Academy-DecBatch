@@ -31,10 +31,10 @@ Follows a standard React application layout.
 Contributions are welcome! Check our [contribution guidelines].
 
 ## License
-This project is licensed under the [License Name]. See [LICENSE](LICENSE) for details.
+This project is licensed under the ISC. See [LICENSE](LICENSE) for details.
 
 ## Contact
-For questions or feedback, contact [Your Name] at [your@email.com].
+For questions or feedback, contact Aafaq Sayed at aafaqsayed09@gmail.com.
 
 Happy task managing!
 
